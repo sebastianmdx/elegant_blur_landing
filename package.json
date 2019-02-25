@@ -1,0 +1,19 @@
+{
+  "name": "elegant_blur_landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianmdx/elegant_blur_landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sebastianmdx.github.io/elegant_blur_landing"
+  "bugs": {
+    "url": "https://github.com/sebastianmdx/elegant_blur_landing/issues"
+  },
+}
