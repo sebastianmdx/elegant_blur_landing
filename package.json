@@ -6,14 +6,11 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sebastianmdx/elegant_blur_landing.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://sebastianmdx.github.io/elegant_blur_landing"
-  "bugs": {
-    "url": "https://github.com/sebastianmdx/elegant_blur_landing/issues"
-  },
+  "homepage": "htttp://sebastianmdx.github.io/elegant_blur_landing",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
